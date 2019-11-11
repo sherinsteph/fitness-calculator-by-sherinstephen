@@ -1,5 +1,8 @@
-# fitness-calculator-
+# fitness-calculator-WITH-database-
 Fitness Calculator in tkinter GUI using python developed by Sherin Stephen
+data are saved on database 
+it can be fetched to screen 
+parameters used will be updating later.
 
 
 1.project.py file has all the codes 
