@@ -10,6 +10,3 @@ parameters used will be updating later.
 3.run this project.py in any of the python IDE
 
 #coded by Sherin Stephen for the comppletion of project in lovely professional university
-#Email- sherinstephen005@gmail.com
-#Contact no -7012618711
-#@Copyright 2019
